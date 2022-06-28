@@ -1,4 +1,5 @@
-ini bukan virus
-kamu bohong
-bukan aku yang bohong
-faisal yang bohong
+f: "ini bukan virus"
+g: "kamu bohong"
+f: "bukan aku yang bohong"
+g: "faisal yang bohong"
+n: "gajelas anjir"
